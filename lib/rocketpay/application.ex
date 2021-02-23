@@ -6,6 +6,11 @@ defmodule Rocketpay.Application do
   use Application
 
   def start(_type, _args) do
+    unless Mix.env() == [:dev, :test, :prod] do
+      Dotenv.load()
+      Mix.Task.run("loadconfig")
+    end
+
     children = [
       # Start the Ecto repository
       Rocketpay.Repo,
