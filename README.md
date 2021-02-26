@@ -2,8 +2,8 @@
 <h4 align="center">NextLevelWeek 4.0 🚀</h4>
 
 <p align="center">
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
@@ -61,5 +61,5 @@ This project uses to work:
   📝 License
 </h2>
 
-Copyright © 2020 [Douglas Tofoli](https://github.com/douglastofoli).<br />
+Copyright © 2021 [Douglas Tofoli](https://github.com/douglastofoli).<br />
 This project is [MIT](./LICENSE) licensed.
