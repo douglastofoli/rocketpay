@@ -19,6 +19,12 @@
 
 <br>
 
+<p align="center" id="project">
+  Rocketpay is the demonstration of a payments API. It is possible to withdraw, deposit or transfer money between two accounts. Uses Basic Auth as authentication. The focus on the API was on the development of logic and some integration tests. 
+</p>
+
+<br>
+
 <h2 id="technologies">
   🚀 Technologies
 </h2>
