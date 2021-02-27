@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg" width="120" height="120"/></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"/></p>
 <h4 align="center">NextLevelWeek 4.0 🚀</h4>
 
 <p align="center">
